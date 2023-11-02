@@ -25,7 +25,7 @@
     </session-timeout>
   </session-config>
 
-<!--  <welcome-file-list>
-    <welcome-file>customerList.xhtml</welcome-file>
-  </welcome-file-list>-->
+  <welcome-file-list>
+    <welcome-file>formulaire_2.xhtml</welcome-file>
+  </welcome-file-list>
 </web-app>
