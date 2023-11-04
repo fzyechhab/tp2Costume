@@ -1,13 +1,16 @@
-package jsf;
+package ma.emsi.tp2costume.jsf;
 
 import java.util.ArrayList;
 import java.util.List;
 import jakarta.inject.Named;
 import jakarta.enterprise.context.RequestScoped;
 
+/**
+ * Backing bean*
+ */
 @Named(value = "bean")
 @RequestScoped
-public class Bean {
+public class Bean1 {
 
     private int nombre;
 
